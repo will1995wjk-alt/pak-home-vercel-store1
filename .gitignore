@@ -1,0 +1,19 @@
+.DS_Store
+.env
+.env.local
+.env.*.local
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.vercel/
+*.log
+*.zip
+index.html
+
+# Local/export duplicates kept outside the deployable Next.js source.
+lancliveboost-github-upload-*/
+pak-home-vercel-store/
+pak-home-shopify-theme/
+环境变量/
